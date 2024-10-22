@@ -1,5 +1,5 @@
 {
-  "name": "enji.dev",  // Make sure this line exists and is correct
+  "name": "enji.dev",  
   "private": true,
   "scripts": {
     "build": "turbo run build",
