@@ -1,4 +1,5 @@
 {
+  "name": "enji.dev",  // Add your desired project name here
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -15,3 +16,4 @@
   },
   "packageManager": "pnpm@7.22.0"
 }
+
